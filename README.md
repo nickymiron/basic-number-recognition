@@ -1,2 +1,2 @@
-# basic-number-recognition-using-neural-network
-Basic Number Recognition Using Neural Network
+# basic-number-recognition
+Basic Number Recognition - No Neural networks involved yet
